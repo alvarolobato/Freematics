@@ -1,0 +1,10 @@
+{
+  "name": "FreematicsPlus",
+  "description": "Fork de stanleyhuangyc/Freematics para home-automation: PlatformIO compila solo libraries/FreematicsPlus.",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "srcDir": "libraries/FreematicsPlus",
+    "includeDir": "libraries/FreematicsPlus"
+  }
+}
